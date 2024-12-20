@@ -1,3 +1,6 @@
+hex9df9c2a9b5cbc5808b402718ca695c3863840d52
+utf8��©��ŀ�@'�i\8c� R
+ascii0xe0f73eca265135c808b47523c779bebc603dffd2a697cc1fe211e04bc148bcfd
 # SORA Development Public Request for Proposal (RFP) Process
 
 SORA, Polkaswap, and other apps on the SORA network all follow a decentralized development process. This means that anyone can make proposals for new features, then proposals for implementation will come from teams that can implement those features, and the community will vote on the best proposal.
